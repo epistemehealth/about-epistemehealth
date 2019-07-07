@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy on Episteme Health Inc.</title>
+    <link>https://about.epistemehealth.com/policy/</link>
+    <description>Recent content in Policy on Episteme Health Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2019 10:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://about.epistemehealth.com/policy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author Submission Guidelines</title>
+      <link>https://about.epistemehealth.com/policy/submission-guidelines/</link>
+      <pubDate>Sun, 09 Jun 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/submission-guidelines/</guid>
+      <description>Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards.</description>
+    </item>
+    
+    <item>
+      <title>Peer Review Policy</title>
+      <link>https://about.epistemehealth.com/policy/peer-review-policy/</link>
+      <pubDate>Sun, 09 Jun 2019 09:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/peer-review-policy/</guid>
+      <description>Details our standards for reviewer qualifications, reviewer collaboration, confidentiality, and our approach to review transparency.</description>
+    </item>
+    
+    <item>
+      <title>Peer Reviewer Guidelines</title>
+      <link>https://about.epistemehealth.com/policy/peer-review-guidelines/</link>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/peer-review-guidelines/</guid>
+      <description>If you&amp;rsquo;ve been asked to review a paper for us, read these guidelines to help you understand what we expect.</description>
+    </item>
+    
+    <item>
+      <title>Editor Guidelines</title>
+      <link>https://about.epistemehealth.com/policy/editor-guidelines/</link>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/editor-guidelines/</guid>
+      <description>Our editors apply their expert judgement free of commercial incentives. Quality is the only thing that counts.</description>
+    </item>
+    
+    <item>
+      <title>Prior Publication and Sharing Policy</title>
+      <link>https://about.epistemehealth.com/policy/prior-publication-sharing/</link>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/prior-publication-sharing/</guid>
+      <description>Want to share your article prior to or after publication? No problem. We welcome preprints and strongly encourage you to share the final version through your institutional repository and anywhere else.</description>
+    </item>
+    
+    <item>
+      <title>Copyright and Fair Dealing Policy</title>
+      <link>https://about.epistemehealth.com/policy/copyright-fair-dealing/</link>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/copyright-fair-dealing/</guid>
+      <description>We apply the author&amp;rsquo;s choice of license while ensuring that works can be reused for scholarly and charitable purposes.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://about.epistemehealth.com/policy/privacy-policy/</link>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/privacy-policy/</guid>
+      <description>What personal information we collect, how we collect it, how long we keep it, and who else is involved.</description>
+    </item>
+    
+  </channel>
+</rss>
