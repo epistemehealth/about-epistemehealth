@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on Episteme Health Inc.</title>
+    <link>https://about.epistemehealth.com/about/</link>
+    <description>Recent content in About Us on Episteme Health Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2019 11:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://about.epistemehealth.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Structure and Mission</title>
+      <link>https://about.epistemehealth.com/about/structure/</link>
+      <pubDate>Sat, 06 Apr 2019 11:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/structure/</guid>
+      <description>We are a non-profit incorporated association, based in Melbourne, Australia. Our mission is to provide free academic publishing services to scientists so they can maximise the impact of their work.</description>
+    </item>
+    
+    <item>
+      <title>Committee of Management</title>
+      <link>https://about.epistemehealth.com/about/committee/</link>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/committee/</guid>
+      <description>The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists.</description>
+    </item>
+    
+  </channel>
+</rss>
