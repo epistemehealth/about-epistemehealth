@@ -6,7 +6,7 @@
     <description>Recent content in About Us on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 11:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 09:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,15 @@
       
       <guid>https://about.epistemehealth.com/about/committee/</guid>
       <description>The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists.</description>
+    </item>
+    
+    <item>
+      <title>Documents and Resources</title>
+      <link>https://about.epistemehealth.com/about/documents/</link>
+      <pubDate>Tue, 06 Aug 2019 09:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/documents/</guid>
+      <description>Key governance documents and annual reports with financial statements.</description>
     </item>
     
   </channel>
