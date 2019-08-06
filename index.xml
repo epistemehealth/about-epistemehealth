@@ -6,7 +6,7 @@
     <description>Recent content on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2019 10:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 10:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Documents and Resources</title>
+      <link>https://about.epistemehealth.com/about/documents/</link>
+      <pubDate>Tue, 06 Aug 2019 09:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/documents/</guid>
+      <description>Key governance documents and annual reports with financial statements.</description>
+    </item>
+    
+    <item>
       <title>Peer Reviewer Guidelines</title>
       <link>https://about.epistemehealth.com/policy/peer-review-guidelines/</link>
       <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
@@ -77,7 +86,7 @@
     <item>
       <title>Copyright and Fair Dealing Policy</title>
       <link>https://about.epistemehealth.com/policy/copyright-fair-dealing/</link>
-      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      <pubDate>Fri, 02 Aug 2019 09:20:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/policy/copyright-fair-dealing/</guid>
       <description>We apply the author&amp;rsquo;s choice of license while ensuring that works can be reused for scholarly and charitable purposes.</description>
@@ -86,7 +95,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>https://about.epistemehealth.com/policy/privacy-policy/</link>
-      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
+      <pubDate>Tue, 06 Aug 2019 10:00:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/policy/privacy-policy/</guid>
       <description>What personal information we collect, how we collect it, how long we keep it, and who else is involved.</description>
