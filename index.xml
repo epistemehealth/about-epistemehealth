@@ -6,7 +6,7 @@
     <description>Recent content on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Aug 2019 10:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 10:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Committee of Management</title>
+      <link>https://about.epistemehealth.com/about/committee/</link>
+      <pubDate>Sun, 08 Sep 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/committee/</guid>
+      <description>The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists.</description>
+    </item>
+    
+    <item>
       <title>Peer Review Policy</title>
       <link>https://about.epistemehealth.com/policy/peer-review-policy/</link>
       <pubDate>Sun, 09 Jun 2019 09:00:00 +1000</pubDate>
@@ -39,18 +48,9 @@
     </item>
     
     <item>
-      <title>Committee of Management</title>
-      <link>https://about.epistemehealth.com/about/committee/</link>
-      <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
-      
-      <guid>https://about.epistemehealth.com/about/committee/</guid>
-      <description>The Committee of Management are responsible for the management of Episteme Health Inc. so that it can fulfill its mission of providing free publishing services for scientists.</description>
-    </item>
-    
-    <item>
       <title>Documents and Resources</title>
       <link>https://about.epistemehealth.com/about/documents/</link>
-      <pubDate>Tue, 06 Aug 2019 09:00:00 +1000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 09:00:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/about/documents/</guid>
       <description>Key governance documents and annual reports with financial statements.</description>
@@ -95,7 +95,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>https://about.epistemehealth.com/policy/privacy-policy/</link>
-      <pubDate>Tue, 06 Aug 2019 10:00:00 +1000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 10:00:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/policy/privacy-policy/</guid>
       <description>What personal information we collect, how we collect it, how long we keep it, and who else is involved.</description>
