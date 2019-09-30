@@ -6,7 +6,7 @@
     <description>Recent content on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 10:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -66,12 +66,30 @@
     </item>
     
     <item>
+      <title>Plan S Compliance</title>
+      <link>https://about.epistemehealth.com/about/plan-s/</link>
+      <pubDate>Sat, 28 Sep 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/plan-s/</guid>
+      <description>Plan S was one of the reasons we launched Episteme Health Inc. and Neuroanatomy and Behaviour. Here is how we plan to meet Plan S requirements.</description>
+    </item>
+    
+    <item>
       <title>Editor Guidelines</title>
       <link>https://about.epistemehealth.com/policy/editor-guidelines/</link>
       <pubDate>Sat, 06 Apr 2019 10:00:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/policy/editor-guidelines/</guid>
       <description>Our editors apply their expert judgement free of commercial incentives. Quality is the only thing that counts.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://about.epistemehealth.com/about/contact/</link>
+      <pubDate>Mon, 30 Sep 2019 09:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/about/contact/</guid>
+      <description>Contact us via email or find representatives in Australia and Canada.</description>
     </item>
     
     <item>

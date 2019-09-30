@@ -33,8 +33,18 @@
   </url>
   
   <url>
+    <loc>https://about.epistemehealth.com/about/plan-s/</loc>
+    <lastmod>2019-09-28T10:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://about.epistemehealth.com/policy/editor-guidelines/</loc>
     <lastmod>2019-04-06T10:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://about.epistemehealth.com/about/contact/</loc>
+    <lastmod>2019-09-30T09:00:00+10:00</lastmod>
   </url>
   
   <url>
@@ -54,12 +64,12 @@
   
   <url>
     <loc>https://about.epistemehealth.com/about/</loc>
-    <lastmod>2019-09-08T10:00:00+10:00</lastmod>
+    <lastmod>2019-09-30T09:00:00+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.epistemehealth.com/</loc>
-    <lastmod>2019-09-08T10:00:00+10:00</lastmod>
+    <lastmod>2019-09-30T09:00:00+10:00</lastmod>
     <priority>0</priority>
   </url>
   
