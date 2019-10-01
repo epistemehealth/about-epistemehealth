@@ -6,7 +6,7 @@
     <description>Recent content on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2019 09:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 10:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -117,6 +117,15 @@
       
       <guid>https://about.epistemehealth.com/policy/privacy-policy/</guid>
       <description>What personal information we collect, how we collect it, how long we keep it, and who else is involved.</description>
+    </item>
+    
+    <item>
+      <title>Call for papers: Neuroanatomy and Behaviour</title>
+      <link>https://about.epistemehealth.com/news/2019-call-for-papers/</link>
+      <pubDate>Tue, 01 Oct 2019 10:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/news/2019-call-for-papers/</guid>
+      <description>Do you want to share your work widely without spending research funds?</description>
     </item>
     
   </channel>
