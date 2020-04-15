@@ -6,10 +6,19 @@
     <description>Recent content on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 10:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 11:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Author Submission Guidelines</title>
+      <link>https://about.epistemehealth.com/policy/submission-guidelines/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/policy/submission-guidelines/</guid>
+      <description>Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards.</description>
+    </item>
     
     <item>
       <title>Crossmark Policy: Corrections and Retractions</title>
@@ -18,15 +27,6 @@
       
       <guid>https://about.epistemehealth.com/policy/crossmark-policy/</guid>
       <description>Crossmark is an industry initiative to provide readers with an easy way to locate the most up-to-date and authoritative version. Using the Crossmark link on our articles will allow readers to quickly check if the article they are reading includes all substantive updates.</description>
-    </item>
-    
-    <item>
-      <title>Author Submission Guidelines</title>
-      <link>https://about.epistemehealth.com/policy/submission-guidelines/</link>
-      <pubDate>Sun, 05 Apr 2020 11:00:00 +1000</pubDate>
-      
-      <guid>https://about.epistemehealth.com/policy/submission-guidelines/</guid>
-      <description>Author submission guidelines for Neuroanatomy and Behaviour. These provide details on manuscript preparation, referencing style, and reporting standards.</description>
     </item>
     
     <item>
