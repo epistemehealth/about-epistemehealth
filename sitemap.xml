@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>https://about.epistemehealth.com/about/committee/</loc>
-    <lastmod>2019-09-08T10:00:00+10:00</lastmod>
+    <loc>https://about.epistemehealth.com/policy/peer-review-policy/</loc>
+    <lastmod>2020-07-04T10:00:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://about.epistemehealth.com/policy/peer-review-policy/</loc>
-    <lastmod>2019-06-09T09:00:00+10:00</lastmod>
+    <loc>https://about.epistemehealth.com/about/committee/</loc>
+    <lastmod>2019-09-08T10:00:00+10:00</lastmod>
   </url>
   
   <url>
@@ -64,18 +64,17 @@
   
   <url>
     <loc>https://about.epistemehealth.com/policy/privacy-policy/</loc>
-    <lastmod>2020-04-05T11:00:00+10:00</lastmod>
+    <lastmod>2020-07-05T11:00:00+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.epistemehealth.com/</loc>
-    <lastmod>2020-04-15T11:00:00+10:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-07-05T11:00:00+10:00</lastmod>
   </url>
   
   <url>
     <loc>https://about.epistemehealth.com/policy/</loc>
-    <lastmod>2020-04-15T11:00:00+10:00</lastmod>
+    <lastmod>2020-07-05T11:00:00+10:00</lastmod>
   </url>
   
   <url>
@@ -95,12 +94,10 @@
   
   <url>
     <loc>https://about.epistemehealth.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://about.epistemehealth.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy on Episteme Health Inc.</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Policy on Episteme Health Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2020 11:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 11:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://about.epistemehealth.com/policy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,7 +32,7 @@
     <item>
       <title>Peer Review Policy</title>
       <link>https://about.epistemehealth.com/policy/peer-review-policy/</link>
-      <pubDate>Sun, 09 Jun 2019 09:00:00 +1000</pubDate>
+      <pubDate>Sat, 04 Jul 2020 10:00:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/policy/peer-review-policy/</guid>
       <description>Details our standards for reviewer qualifications, reviewer collaboration, confidentiality, and our approach to review transparency.</description>
@@ -77,7 +77,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>https://about.epistemehealth.com/policy/privacy-policy/</link>
-      <pubDate>Sun, 05 Apr 2020 11:00:00 +1000</pubDate>
+      <pubDate>Sun, 05 Jul 2020 11:00:00 +1000</pubDate>
       
       <guid>https://about.epistemehealth.com/policy/privacy-policy/</guid>
       <description>What personal information we collect, how we collect it, how long we keep it, and who else is involved.</description>
