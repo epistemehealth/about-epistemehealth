@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Episteme Health Inc.</title>
+    <link>https://about.epistemehealth.com/resources/</link>
+    <description>Recent content in Resources on Episteme Health Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jun 2021 09:20:00 +1000</lastBuildDate><atom:link href="https://about.epistemehealth.com/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing a license</title>
+      <link>https://about.epistemehealth.com/resources/license-choice/</link>
+      <pubDate>Mon, 14 Jun 2021 09:20:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/resources/license-choice/</guid>
+      <description>A discussion of Creative Commons licensing for open access.</description>
+    </item>
+    
+    <item>
+      <title>Writing Public Review Summaries</title>
+      <link>https://about.epistemehealth.com/resources/public-review-summaries/</link>
+      <pubDate>Sun, 13 Jun 2021 13:30:00 +1000</pubDate>
+      
+      <guid>https://about.epistemehealth.com/resources/public-review-summaries/</guid>
+      <description>Tips for writing a helpful public review summary.</description>
+    </item>
+    
+  </channel>
+</rss>
